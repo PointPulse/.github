@@ -1,0 +1,33 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-frontend.git
+[submodule "manifest"]
+	path = manifest
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-manifest.git
+[submodule "proxy"]
+	path = proxy
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-proxy.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-terraform.git
+[submodule "users"]
+	path = users
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-users.git
+[submodule "apidocs"]
+	path = apidocs
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-apidocs.git
+[submodule "points-ledger"]
+	path = points-ledger
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-points-ledger.git
+[submodule "redaction"]
+	path = redaction
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-redaction.git
+[submodule "database"]
+	path = database
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-database.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-protobuf.git
+[submodule "mermaid"]
+	path = mermaid
+	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-mermaid.git
