@@ -1,33 +1,33 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-frontend.git
+	url = https://github.com/PointPulse/frontend.git
 [submodule "manifest"]
 	path = manifest
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-manifest.git
+	url = https://github.com/PointPulse/manifest.git
 [submodule "proxy"]
 	path = proxy
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-proxy.git
+	url = https://github.com/PointPulse/proxy.git
 [submodule "terraform"]
 	path = terraform
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-terraform.git
+	url = https://github.com/PointPulse/terraform.git
 [submodule "users"]
 	path = users
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-users.git
+	url = https://github.com/PointPulse/users.git
 [submodule "apidocs"]
 	path = apidocs
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-apidocs.git
+	url = https://github.com/PointPulse/apidocs.git
 [submodule "points-ledger"]
 	path = points-ledger
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-points-ledger.git
+	url = https://github.com/PointPulse/points-ledger.git
 [submodule "redaction"]
 	path = redaction
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-redaction.git
+	url = https://github.com/PointPulse/redaction.git
 [submodule "database"]
 	path = database
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-database.git
+	url = https://github.com/PointPulse/database.git
 [submodule "protobuf"]
 	path = protobuf
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-protobuf.git
+	url = https://github.com/PointPulse/protobuf.git
 [submodule "mermaid"]
 	path = mermaid
-	url = https://github.com/cs301-itsa/project-2023-24T2-g1-t5-mermaid.git
+	url = https://github.com/PointPulse/mermaid.git

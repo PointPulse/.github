@@ -1,10 +1,10 @@
-# Ascenda Loyalty System
+# Point Pulse
 
-Welcome to the Ascenda Loyalty System, a comprehensive suite designed to empower loyalty programs with modern, scalable, and secure microservices architecture. This repository serves as the master repository, encapsulating all of our microservices and deployment sources to streamline the development and deployment processes.
+Welcome to the Point Pulse, a comprehensive suite designed to empower loyalty programs with modern, scalable, and secure microservices architecture. This repository serves as the master repository, encapsulating all of our microservices and deployment sources to streamline the development and deployment processes.
 
 ## Components
 
-The Ascenda Loyalty System comprises several key components, each serving a distinct role within the ecosystem:
+The Point Pulse comprises several key components, each serving a distinct role within the ecosystem:
 
 - **`apidocs`**: Utilizes Redocly to provide comprehensive documentation for all available APIs, ensuring easy reference and integration for developers.
 
@@ -30,14 +30,14 @@ The Ascenda Loyalty System comprises several key components, each serving a dist
 
 ## Getting Started
 
-To get started with the Ascenda Loyalty System, please ensure you have the necessary prerequisites installed, including Docker, Kubernetes, and the respective CLI tools for interacting with AWS and Terraform.
+To get started with the Point Pulse, please ensure you have the necessary prerequisites installed, including Docker, Kubernetes, and the respective CLI tools for interacting with AWS and Terraform.
 
 ### Setup and Deployment
 
-
-To set up the Ascenda Loyalty System in your local development environment, follow these steps:
+To set up the Point Pulse in your local development environment, follow these steps:
 
 1. **Clone the Repository Recursively**:
+
    - This project uses Git submodules to manage its components. To clone the repository and its submodules in one step, use the following command:
      ```
      git clone --recurse-submodules git@github.com:cs301-itsa/project-2023-24t2-g1-t5.git
